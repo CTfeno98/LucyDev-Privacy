@@ -3,8 +3,8 @@
 - We are trying to do the best for you and we provide service with various bots that can be useful for you.
 
 **What do we store?**
-1-) The id of the last used server
-2-) The name of the last used server
+1-) The last command is the id of the server used
+2-) The last command is the name of the server used
 3-) Staff İd
 4-) Staff Nick
 5-) The name of the last used channel (and id)
